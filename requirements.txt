@@ -6,3 +6,7 @@ emoji
 darkmode
 videocalls 
 sreenrecord
+
+payment option
+send money
+recieve money
