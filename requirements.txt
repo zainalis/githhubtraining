@@ -2,3 +2,7 @@ text
 color
 design
 emoji
+
+darkmode
+videocalls 
+sreenrecord
